@@ -1,0 +1,12 @@
+{
+  "name": "vercel-mongodb-app",
+  "version": "1.0.0",
+  "description": "Fullstack app deployed on Vercel with MongoDB Atlas backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  }
+}
